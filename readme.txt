@@ -1,2 +1,3 @@
 git is a distributed version control system
 git is free softwar distributed under the GPL.
+git has amutablr index called stage
